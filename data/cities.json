@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🟥",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🟨",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🟩",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "3916",
+      "cityName": "Monaco",
+      "country": "Monaco",
+      "emoji": "🇲🇨",
+      "date": "2024-08-06T07:38:32.000Z",
+      "notes": "This city was great",
+      "position": {
+        "lat": "43.70362249839005",
+        "lng": "7.432250976562501"
+      }
+    },
+    {
+      "id": "700c",
+      "cityName": "Luna",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-01-02T08:46:39.832Z",
+      "notes": "",
+      "position": {
+        "lat": "42.16340342422403",
+        "lng": "-0.9448242187500001"
+      }
+    },
+    {
+      "id": "519b",
+      "cityName": "Loye-sur-Arnon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-01-02T08:46:58.000Z",
+      "notes": "",
+      "position": {
+        "lat": "46.604167162931844",
+        "lng": "2.39501953125"
+      }
+    }
+  ]
+}
