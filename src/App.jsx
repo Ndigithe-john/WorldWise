@@ -21,7 +21,7 @@ import SpinnerFullPage from "@components/Spinner/SpinnerFullPage";
 const HomePage = lazy(() => import("@screens/Home"));
 const ProductCard = lazy(() => import("@screens/Product"));
 const Login = lazy(() => import("@screens/Login"));
-const Pricing = lazy(() => import("@screens/pricing"));
+const Pricing = lazy(() => import("@screens/Pricing"));
 const AppLayout = lazy(() => import("@screens/Layout"));
 const ErrorPage = lazy(() => import("@screens/Error"));
 
